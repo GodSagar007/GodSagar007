@@ -23,13 +23,6 @@
 
 ---
 
-## 🧮 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/GodSagar007?theme=dark&font=Karma&ext=activity" />
-</p>
-
----
 
 ## 🧠 Skills I'm Honing
 
@@ -48,7 +41,3 @@
 > "What gets measured gets improved." – *Peter Drucker*
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfFz1sI/giphy.gif" width="200px" alt="brain gif" />
-</p>
