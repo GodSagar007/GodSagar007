@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm Sagar </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Sharpening+my+problem+solving+skills...;Python+%7C+C%2B%2B+%7C+AI+%7C+ML;Practicing+daily+on+LeetCode+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-<!--
-**GodSagar007/GodSagar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GodSagar007&theme=tokyonight&row=1&no-frame=true&no-bg=true&margin-w=20" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GodSagar007&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSagar007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GodSagar007?theme=dark&font=Karma&ext=activity" />
+</p>
+
+---
+
+## 🧠 Skills I'm Honing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F7768E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+## 💡 Quote That Guides Me
+
+> "What gets measured gets improved." – *Peter Drucker*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfFz1sI/giphy.gif" width="200px" alt="brain gif" />
+</p>
