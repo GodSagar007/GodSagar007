@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Sagar</h1>
+<h1 align="center">👋 Hi, I'm Sagar</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Sharpening+my+Problem+Solving+Skills...;Python+%7C+C%2B%2B+%7C+AI+%7C+ML;Practicing+daily+on+LeetCode+%F0%9F%93%9A" alt="Typing SVG" />
