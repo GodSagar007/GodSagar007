@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hello, I'm Sagar</h1>
+<h1 align="center">👋 Hello, I'm Sagar Tewari</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Sharpening+my+Problem+Solving+Skills...;Python+%7C+C%2B%2B+%7C+AI+%7C+ML;Practicing+daily+on+LeetCode+%F0%9F%93%9A" alt="Typing SVG" />
@@ -20,10 +20,6 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=GodSagar007&show_icons=true&theme=tokyonight" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSagar007&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=GodSagar007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
