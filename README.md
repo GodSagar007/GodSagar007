@@ -15,7 +15,7 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📈 GitHub Stats
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=GodSagar007&show_icons=true&theme=tokyonight" />
