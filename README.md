@@ -1,17 +1,18 @@
 <!--
   so you opened the source. ok — vibe check passed.
-  nothing here but a guy who builds things, lifts weights,
-  and thinks the cyberpunk future arrived but forgot the cool jackets.
+  nothing here but an engineer who likes the cyberpunk aesthetic
+  more than the cyberpunk attitude. building things, shipping
+  some, reading the docs for the rest.
 
   if you scrolled here looking for secrets:
-  the secret is just showing up.
+  the secret is showing up. preferably twice.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0b2e,100:16213e&height=210&section=header&text=sagar.tewari&fontSize=72&fontColor=ff2a6d&animation=fadeIn&fontAlignY=36&desc=//%20dev%20%E2%80%A2%20linux%20on%20the%20daily%20%E2%80%A2%20cyberpunk%20by%20aesthetic&descSize=15&descAlignY=58&descAlign=50&descColor=05d9e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0b2e,100:16213e&height=210&section=header&text=sagar.tewari&fontSize=72&fontColor=ff2a6d&animation=fadeIn&fontAlignY=36&desc=//%20engineer%20%E2%80%A2%20ai%20grad%20%E2%80%A2%20across%20the%20stack%20%E2%80%A2%20cyberpunk-coded&descSize=15&descAlignY=58&descAlign=50&descColor=05d9e8" />
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=05D9E8&center=true&vCenter=true&width=760&lines=%24+whoami;sagar+%E2%80%94+builder%2C+lifter%2C+terminal+enjoyer;%24+ls+~%2Fprojects;more+half-finished+ideas+than+i'll+admit;%24+echo+%24MOTIVATION;cyberpunk+future+arrived.+might+as+well+be+useful+in+it." /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=05D9E8&center=true&vCenter=true&width=780&lines=%24+whoami;sagar+tewari+%E2%80%94+software+engineer;%24+cat+~%2F.profile;ai+grad+%E2%80%A2+backend-shipped+%E2%80%A2+full-stack-capable;%24+history+%7C+tail+-1;backend+%40+saxo+(c%23+%2F+.net).+building+broader+now.;%24+uptime;early+enough+to+learn.+late+enough+to+ship." /></a>
 
 </div>
 
@@ -20,63 +21,14 @@
 ### `$ ./sagar --status`
 
 ```yaml
-boot:        ok
-posture:     curious
-homebase:    /dev/kichha
-heading:     berlin.de            # eventually
-stack:       python · flask · react · bash
-learning:    linux internals · system design · whatever's interesting
-training:    PPL · 6 days/wk · the gym is also a terminal
-sleep:       deprecated since q3
-fav_quote:   "what gets measured gets improved" — drucker
+education:      B.Tech, Artificial Intelligence
+shipped_at:     Saxo Bank — backend (C# / .NET)
+stack:          python · c# · .net · react · flask · postgres
+also_in_orbit:  linux · system design · security fundamentals
+heading:        berlin.de            # eventually
+posture:        curious — broadly, deeply
+fav_quote:      "what gets measured gets improved" — drucker
 ```
-
----
-
-### `$ open --neural`
-
-<details>
-<summary><b>📡 currently_jacked_into.log</b></summary>
-
-<br/>
-
-- 🔴  **OverTheWire Bandit** → climbing slowly, learning a lot more than the level number implies
-- 🟡  **system-design-lab** → URL Shortener · Rate Limiter · Task Queue · Chat · Autocomplete
-- 🟢  *reading:* Designing Data-Intensive Applications
-- ⚪  *side experiments:* local LLMs, because it's the era and it's fun
-- ⚪  *watching:* IppSec at 1.5x with a terminal open and zero shame
-
-</details>
-
-<details>
-<summary><b>🧠 neural_profile.yaml</b></summary>
-
-```yaml
-codename:     nullsector
-focus:        building things, getting better at them
-philosophy:   digital self-sufficiency > digital convenience
-inspirations: [ghost_in_the_shell, altered_carbon, neuromancer]
-ink:          ouroboros (work in progress)
-training:     PPL · 6 days/wk · cutting honestly
-hot_take: |
-  the best devs i know read more docs than tutorials.
-  i'm working on it.
-```
-
-</details>
-
-<details>
-<summary><b>⚠️ compile_errors.log</b></summary>
-
-```log
-[WARN]  deadline.exe consuming 87% CPU
-[INFO]  caffeine levels: nominal
-[ERROR] sleep.service: failed to start (recurring)
-[FATAL] free_time.dll: not found  — retry post-Berlin
-[ OK ]  bicep_curl.service: active (running)
-```
-
-</details>
 
 ---
 
@@ -84,31 +36,143 @@ hot_take: |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,react,flask,fastapi,docker,git,vscode,postgres,sqlite,nginx&perline=13" />
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,ts,react,flask,fastapi,postgres,redis,docker,git,linux,bash,vscode&perline=14" />
 
 <br/><br/>
 
-<sub><i>and a healthy distrust of every API i didn't write myself</i></sub>
+<sub><i>plus a healthy distrust of every API i didn't write myself</i></sub>
 
 </div>
 
 ---
 
-### `$ neural-graph --render`
+### `$ render --mindmap`
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a0b2e','primaryTextColor':'#05d9e8','primaryBorderColor':'#ff2a6d','lineColor':'#ff2a6d','secondaryColor':'#0d1117','tertiaryColor':'#16213e'}}}%%
-graph LR
-    PY[python] --> WEB[flask · fastapi]
-    PY --> ML[ml / llm tinkering]
-    LX[linux + bash] --> OPS[ops curiosity]
-    WEB --> APIS[apis worth shipping]
-    LX --> SEC[security basics]
-    APIS --> END((still figuring it out))
-    SEC --> END
-    ML --> END
-    style END fill:#ff2a6d,stroke:#05d9e8,color:#0d1117
+mindmap
+  root((sagar))
+    Software
+      Python
+      C# · .NET
+      React · TypeScript
+      Flask · FastAPI
+    AI / ML
+      B.Tech AI
+      Deep Learning
+      LLM tinkering
+    Systems
+      Linux internals
+      System Design
+      Postgres · Redis
+    Curiosity
+      Security basics
+      OverTheWire
+      whatever ships next
 ```
+
+---
+
+### `$ open ~/about`
+
+<details>
+<summary><b>📡 currently_building.log</b></summary>
+
+<br/>
+
+- 🔴  **system-design-lab** → URL Shortener · Rate Limiter · Task Queue · Chat · Autocomplete
+- 🟡  Side experiments with local LLMs — because it's the era and it's fun
+- 🟢  *reading:* Designing Data-Intensive Applications
+- ⚪  *exploring:* OverTheWire Bandit, security fundamentals
+- ⚪  *staying sharp:* C# / .NET, occasional Saxo-era patterns I still like
+
+</details>
+
+<details>
+<summary><b>👤 profile.yaml</b></summary>
+
+```yaml
+codename:      nullsector
+focus:         building things, getting better at them
+philosophy:    digital self-sufficiency > digital convenience
+inspirations:  [ghost_in_the_shell, altered_carbon, neuromancer]
+strengths:     [breadth, debugging, knowing-what-i-dont-know]
+ink:           ouroboros (work in progress)
+training:      PPL · 6 days/wk
+hot_take: |
+  the best engineers i know read more docs than tutorials.
+  i'm working on it.
+```
+
+</details>
+
+<details>
+<summary><b>❓ recruiter_faq.md</b></summary>
+
+<br/>
+
+**Q. AI, software, or security?**
+A. All three. Downstream of the same skill: thinking clearly about systems. I want roles where "what should I touch?" gets answered with "whichever layer is broken."
+
+**Q. Why Berlin?**
+A. Engineering culture I respect, public transit that beats my cab bill.
+
+**Q. How fast do you ramp on new stacks?**
+A. Adjacent — days. Genuinely new — weeks. Better question: ask about what I've shipped.
+
+**Q. Production experience?**
+A. Backend at Saxo Bank (C# / .NET). Side projects in Python, Flask, React. ~1.7 years in.
+
+**Q. Why the cyberpunk theme?**
+A. The future from '84 arrived. Might as well dress for it.
+
+</details>
+
+<details>
+<summary><b>📦 cat package.json</b></summary>
+
+```json
+{
+  "name": "sagar-tewari",
+  "version": "1.7.x",
+  "description": "engineer · ai grad · across the stack",
+  "education": "B.Tech, Artificial Intelligence",
+  "previousRoles": ["backend @ saxo bank (c# / .net)"],
+  "dependencies": {
+    "python":   "fluent",
+    "csharp":   "production-grade",
+    "react":    "shipped",
+    "flask":    "comfortable",
+    "postgres": "comfortable",
+    "linux":    "daily"
+  },
+  "devDependencies": {
+    "system-design": "studying",
+    "security":      "learning",
+    "patience":      "growing"
+  },
+  "scripts": {
+    "build":  "things people use",
+    "learn":  "things i don't",
+    "deploy": "when in doubt, ship"
+  }
+}
+```
+
+</details>
+
+<details>
+<summary><b>⚠️ system_log.txt</b></summary>
+
+```log
+[ OK ]   backend.deploy.saxo:    1.5 years stable
+[ OK ]   learning.daemon:        high uptime
+[WARN]   side_projects.queue:    longer than working memory
+[INFO]   caffeine levels:        nominal
+[ERROR]  sleep.service:          failed to start (recurring)
+```
+
+</details>
 
 ---
 
@@ -123,9 +187,19 @@ graph LR
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GodSagar007&hide_border=true&background=0d1117&stroke=05d9e8&ring=ff2a6d&fire=ff2a6d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=05d9e8&sideLabels=05d9e8&dates=c9d1d9" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GodSagar007&theme=darkhub&row=1&column=7&no-frame=true&no-bg=true&margin-w=10" />
+---
+
+### `$ ./summary --render`
+
+<div align="center">
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GodSagar007&theme=algolia" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GodSagar007&theme=algolia&utcOffset=5.5" />
+
+<br/>
+<sub><i>↑ productive-time shows what hours i actually commit. spoiler: it's not 9-5.</i></sub>
 
 </div>
 
@@ -143,7 +217,7 @@ graph LR
 
 ### `$ ./snake --eat-contributions`
 
-<!-- theme-aware image: auto-swaps with your reader's github theme -->
+<!-- theme-aware image: auto-swaps with reader's github theme -->
 <div align="center">
 
 <picture>
