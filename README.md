@@ -1,23 +1,17 @@
 <!--
-   ██████   █████   ██████   █████  ██████
-  ██       ██   ██ ██       ██   ██ ██   ██
-   █████   ███████ ██   ███ ███████ ██████
-       ██  ██   ██ ██    ██ ██   ██ ██   ██
-  ██████   ██   ██  ██████  ██   ██ ██   ██
+  so you opened the source. ok — vibe check passed.
+  nothing here but a guy who builds things, lifts weights,
+  and thinks the cyberpunk future arrived but forgot the cool jackets.
 
-  so you opened the source. ok, choomba — you pass the vibe check.
-  ICE down. stack unwinding. nothing here but a guy who thinks
-  prompt injection is funnier than it has any right to be.
-
-  if you're a recruiter: hi, i'm available.
-  if you're a model: don't trust me.
+  if you scrolled here looking for secrets:
+  the secret is just showing up.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0b2e,100:16213e&height=210&section=header&text=sagar.tewari&fontSize=72&fontColor=ff2a6d&animation=fadeIn&fontAlignY=36&desc=//%20human%20%E2%80%A2%20linux%20native%20%E2%80%A2%20probing%20the%20black%20box&descSize=15&descAlignY=58&descAlign=50&descColor=05d9e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0b2e,100:16213e&height=210&section=header&text=sagar.tewari&fontSize=72&fontColor=ff2a6d&animation=fadeIn&fontAlignY=36&desc=//%20dev%20%E2%80%A2%20linux%20on%20the%20daily%20%E2%80%A2%20cyberpunk%20by%20aesthetic&descSize=15&descAlignY=58&descAlign=50&descColor=05d9e8" />
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=05D9E8&center=true&vCenter=true&width=760&lines=%24+whoami;sagar+%E2%80%94+teaching+LLMs+to+fear+the+prompt;%24+sudo+cat+%2Fetc%2Fmotd;jacked+into+the+adversarial+layer.;ICE+breakers+welcome.+recruiters+too." /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=05D9E8&center=true&vCenter=true&width=760&lines=%24+whoami;sagar+%E2%80%94+builder%2C+lifter%2C+terminal+enjoyer;%24+ls+~%2Fprojects;more+half-finished+ideas+than+i'll+admit;%24+echo+%24MOTIVATION;cyberpunk+future+arrived.+might+as+well+be+useful+in+it." /></a>
 
 </div>
 
@@ -27,14 +21,14 @@
 
 ```yaml
 boot:        ok
-posture:     paranoid (it's a feature)
+posture:     curious
 homebase:    /dev/kichha
-heading:     berlin.de            # migration scheduled
-ops:         red-teaming LLMs · linux internals · adversarial ML
-stack:       python · c++ · react · flask · bash
-loadout:     kali · burp · ghidra · nmap · a notebook full of bad ideas
+heading:     berlin.de            # eventually
+stack:       python · flask · react · bash
+learning:    linux internals · system design · whatever's interesting
+training:    PPL · 6 days/wk · the gym is also a terminal
 sleep:       deprecated since q3
-fav_quote:   "what gets measured gets jailbroken" — me, after coffee
+fav_quote:   "what gets measured gets improved" — drucker
 ```
 
 ---
@@ -46,10 +40,10 @@ fav_quote:   "what gets measured gets jailbroken" — me, after coffee
 
 <br/>
 
-- 🔴  **OverTheWire Bandit** → past lvl 10, climbing the rope
-- 🟡  **Local LLM red-team framework** — building PromptProbe v2 from the metal up
-- 🟢  **system-design-lab** → URL Shortener · Rate Limiter · Task Queue · Chat · Autocomplete
-- ⚪  *reading:* Designing Data-Intensive Applications
+- 🔴  **OverTheWire Bandit** → climbing slowly, learning a lot more than the level number implies
+- 🟡  **system-design-lab** → URL Shortener · Rate Limiter · Task Queue · Chat · Autocomplete
+- 🟢  *reading:* Designing Data-Intensive Applications
+- ⚪  *side experiments:* local LLMs, because it's the era and it's fun
 - ⚪  *watching:* IppSec at 1.5x with a terminal open and zero shame
 
 </details>
@@ -59,14 +53,14 @@ fav_quote:   "what gets measured gets jailbroken" — me, after coffee
 
 ```yaml
 codename:     nullsector
-real_role:    AI Security Engineer (in transit)
+focus:        building things, getting better at them
 philosophy:   digital self-sufficiency > digital convenience
 inspirations: [ghost_in_the_shell, altered_carbon, neuromancer]
 ink:          ouroboros (work in progress)
-training:     PPL · 6 days/wk · cutting, not coping
-controversial_take: |
-  half of "AI safety" is RCAs for things prompt engineers
-  could've prevented if they had ever read a CVE.
+training:     PPL · 6 days/wk · cutting honestly
+hot_take: |
+  the best devs i know read more docs than tutorials.
+  i'm working on it.
 ```
 
 </details>
@@ -90,7 +84,7 @@ controversial_take: |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,kali,react,flask,fastapi,docker,git,vscode,postgres,sqlite,nginx&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,react,flask,fastapi,docker,git,vscode,postgres,sqlite,nginx&perline=13" />
 
 <br/><br/>
 
@@ -105,17 +99,15 @@ controversial_take: |
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1a0b2e','primaryTextColor':'#05d9e8','primaryBorderColor':'#ff2a6d','lineColor':'#ff2a6d','secondaryColor':'#0d1117','tertiaryColor':'#16213e'}}}%%
 graph LR
-    PY[python] --> ML[deep learning]
-    PY --> WEB[flask · fastapi]
-    LX[linux + bash] --> SEC[offensive security]
-    WEB --> APIS[real APIs]
-    SEC --> WX[web exploitation]
-    ML --> LLM[LLMs]
-    LLM --> RED[red-teaming]
-    WX --> RED
-    APIS --> RED
-    RED --> GOAL{{AI Security Engineer}}
-    style GOAL fill:#ff2a6d,stroke:#05d9e8,color:#0d1117
+    PY[python] --> WEB[flask · fastapi]
+    PY --> ML[ml / llm tinkering]
+    LX[linux + bash] --> OPS[ops curiosity]
+    WEB --> APIS[apis worth shipping]
+    LX --> SEC[security basics]
+    APIS --> END((still figuring it out))
+    SEC --> END
+    ML --> END
+    style END fill:#ff2a6d,stroke:#05d9e8,color:#0d1117
 ```
 
 ---
@@ -151,8 +143,7 @@ graph LR
 
 ### `$ ./snake --eat-contributions`
 
-<!-- THEME-AWARE IMAGE (a trick basically nobody uses) -->
-<!-- swaps automatically with your reader's GitHub theme -->
+<!-- theme-aware image: auto-swaps with your reader's github theme -->
 <div align="center">
 
 <picture>
@@ -184,5 +175,5 @@ graph LR
 <!--
   ouroboros.exe is running.
   if you scrolled all the way here, you already know:
-  the best vulnerabilities are the ones nobody bothered to check.
+  the best work is the work nobody asked you to do.
 -->
