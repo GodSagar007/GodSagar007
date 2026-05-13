@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hello, I'm Sagar Tewari</h1>
+<h1 align="center">⚡ sagar.tewari</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Sharpening+my+Problem+Solving+Skills...;Python+%7C+C%2B%2B+%7C+AI+%7C+ML;Practicing+daily+on+LeetCode+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=%3E+sagar.exe+%E2%80%94+running;%3E+engineer+%C2%B7+ai+%C2%B7+backend+%C2%B7+still+in+the+wires;%3E+shipping+%3E+talking;%3E+follow+the+green+trail+%E2%86%93" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,15 +19,24 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSagar007&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GodSagar007&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🧠 Skills I'm Honing
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F7768E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
