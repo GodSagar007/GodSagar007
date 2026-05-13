@@ -6,33 +6,32 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 `// loot`
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GodSagar007&theme=darkhub&row=1&column=7&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=GodSagar007&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSagar007&layout=compact&theme=tokyonight" />
-</p>
-
+## 📊 `// vitals`
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GodSagar007&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodSagar007&theme=tokyo-night&hide_border=true&area=true&custom_title=//%20commit%20pulse%20%E2%80%94%20last%2031%20days" />
+</p>
+
 ---
 
-## 🧠 Skills I'm Honing
+## 🧠 `// loadout`
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,react,fastapi,pytorch,docker,postgres,linux,git&perline=10" />
 </p>
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## 🐍 `snake.eat(my_commits)`
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GodSagar007/GodSagar007/output/github-contribution-grid-snake-dark.svg" />
@@ -43,5 +42,5 @@
 
 ---
 
-## 💡 Quote That Guides Me
+## 💡 `// motd`
 > "What gets measured gets improved." – *Peter Drucker*
