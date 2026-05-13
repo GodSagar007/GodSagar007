@@ -1,24 +1,38 @@
-<!--
-  there's not much here. that's the point.
-  the work is pinned below — talk is cheap; commits less so.
--->
+<!-- HEADER -->
+<h1 align="center">👋 Hello, I'm Sagar Tewari</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Sharpening+my+Problem+Solving+Skills...;Python+%7C+C%2B%2B+%7C+AI+%7C+ML;Practicing+daily+on+LeetCode+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-<h2 align="center">hey, i'm sagar 👋</h2>
+---
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=8B949E&center=true&vCenter=true&width=580&lines=engineer.+builder.+perpetual+learner.;writes+code.+reads+docs.+ships+anyway.;i+save+the+smalltalk+for+standups.;the+pinned+repos+are+the+real+resume." /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=GodSagar007&theme=tokyonight&row=1&no-frame=true&no-bg=true&margin-w=20" />
 </p>
 
-```mermaid
-pie showData
-    title  how a working day actually splits
-    "writing new code" : 30
-    "reading old code" : 25
-    "debugging yesterday's code" : 20
-    "explaining estimates" : 15
-    "coffee" : 10
-```
+---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=GodSagar007&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodSagar007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Skills I'm Honing
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F7768E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-9C27B0?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GodSagar007/GodSagar007/output/github-contribution-grid-snake-dark.svg" />
@@ -27,8 +41,7 @@ pie showData
   </picture>
 </p>
 
-<p align="center">
-  <i>"what gets measured gets improved." — peter drucker</i>
-  <br/><br/>
-  <sub>📌 the actual work is pinned below ↓</sub>
-</p>
+---
+
+## 💡 Quote That Guides Me
+> "What gets measured gets improved." – *Peter Drucker*
