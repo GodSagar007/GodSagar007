@@ -22,7 +22,7 @@ jobs:
           github_user_name: GodSagar007
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2305d9e8&color_dots=%231a0b2e,%2316213e,%23ff2a6d,%2305d9e8,%23c9d1d9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FCEE0A&color_dots=%231a1a1a,%23003344,%23006677,%2300AABB,%2305D9E8
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
